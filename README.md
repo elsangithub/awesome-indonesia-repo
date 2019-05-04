@@ -99,7 +99,6 @@ Mohon baca pedoman [berkontribusi](https://github.com/realodix/awesome-indonesia
 
 ### JavaScript
 - [Angkot](https://github.com/widatama/angkot) - A searchable Jakarta’s public transportation routes.
-- [cra-universal](https://github.com/antonybudianto/cra-universal) - Create React App companion for universal app. No eject, zero config, full HMR, and more.
 - [Esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [Iyem](https://github.com/lukluk/iyem) - Simple implementation multi thread in nodejs.
 - [jQuery Awesome Sosmed Share Button](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button) - Awesome social media button with share count.
@@ -135,6 +134,7 @@ Mohon baca pedoman [berkontribusi](https://github.com/realodix/awesome-indonesia
 
 
 ### React
+- [cra-universal](https://github.com/antonybudianto/cra-universal) - Create React App companion for universal app. No eject, zero config, full HMR, and more.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
 - [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - React native credit card display component.
 
