@@ -181,13 +181,14 @@ Mohon baca pedoman [berkontribusi](https://github.com/realodix/awesome-indonesia
 ### Laravel
 - [Absis](https://github.com/smpn1smg/absis) - Sistem Akademik K13/KTSP Berbasis Web.
 - [AppRocket PreProject](https://github.com/rawaludin/approcket-preproject) - Contoh aplikasi CRUD dengan Laravel 5.2.
-- [Avatar](https://github.com/laravolt/avatar) - Plug and play avatar, turn initial name into beautiful avatar.
-- [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
+- [Avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
+- [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - CRUD generator.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
-- [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Generate a new model factory using Artisan command.
+- [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - This package offers a lazy way to create a new model factory files, since Laravel (< 5.5) have no Artisan command to generate it.
 - [Laravel Circuit Breaker](https://github.com/rymanalu/laravel-circuit-breaker) - Circuit Breaker pattern implementation in Laravel 5.
 - [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - Simple file uploader for Laravel 5.
 - [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di Indonesia.
+- [Newt](https://github.com/realodix/newt) - URL shortener web application based on the Laravel PHP Framework.
 - [Pingpong Admin](https://github.com/pingpong-labs/admin) - Laravel 5 Admin.
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 
@@ -214,12 +215,16 @@ Mohon baca pedoman [berkontribusi](https://github.com/realodix/awesome-indonesia
 
 
 ### Miscellaneous
+- `[AdBlockList]` [ABPindo](https://github.com/ABPindo/indonesianadblockrules) - Filter Adblock Plus compatible untuk memblokir iklan mengganggu di situs berbahasa Indonesia.
+- `[AdBlockList]` [AdBlockID](https://github.com/realodix/AdBlockID) - Indonesian ad block filter list for Adblock Plus, uBlock Origin, and AdGuard.
+- `[AdBlockList]` [UNBLOCKHOSTID](https://github.com/gvoze32/unblockhostid) - Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
+- `[Database]` [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
+- `[Database]` [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
+- [Indonesia Language Pack for Flarum](https://github.com/realodix/flarum-ext-indonesian) - Paket bahasa Indonesia untuk Flarum.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
-- [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
-- [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
-- [Unblock host ID](https://github.com/gvoze32/unblockhostid) - Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
+
 
 ### Community
 - [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
